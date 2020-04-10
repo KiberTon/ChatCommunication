@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93828453828",
+    "firebase_url": "https://awesomechat-10caf.firebaseio.com",
+    "project_id": "awesomechat-10caf",
+    "storage_bucket": "awesomechat-10caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93828453828:android:8d83d75c6f11d507ca0091",
+        "android_client_info": {
+          "package_name": "com.kibekin.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93828453828-3gpb9grs10f5ek6bjbpqrntuo2v071l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kibekin.whatsappclone",
+            "certificate_hash": "30438f30a07e66b0c4cfa42250a6c5828765ceda"
+          }
+        },
+        {
+          "client_id": "93828453828-8slg71ko9aak5rc70evngtormiukcne6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEDRqoE95AbswfZbTSwc70acw9CTuKZ-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93828453828-8slg71ko9aak5rc70evngtormiukcne6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
